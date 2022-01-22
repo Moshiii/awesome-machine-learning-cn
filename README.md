@@ -347,7 +347,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 #### [](https://github.com/josephmisiti/awesome-machine-learning/blob/master/README.md#general-purpose-machine-learning-7)通用机器学习
 
-*   Bayesian Methods for Hackers：Python语言概率规划的电子书。[官网](https://github.com/CamDavidsonPilon/。Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+*   Bayesian Methods for Hackers：Python语言概率规划的电子书。[官网](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 *   MLlib in Apache Spark：Spark下的分布式机器学习库。[官网](http://spark.apache.org/docs/latest/mllib-guide.html)
 *   scikit-learn：基于SciPy的机器学习模块。[官网](http://scikit-learn.org/)
 *   graphlab-create：包含多种机器学习模块的库（回归、聚类、推荐系统、图分析等），基于可以磁盘存储的DataFrame。[官网](http://graphlab.com/products/create/docs/)
